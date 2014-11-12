@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureWebJobSample", "AzureWebJobSample\AzureWebJobSample.csproj", "{05BCE4D4-61A0-45D0-A1C9-73C30C643DB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJob1", "WebJob1\WebJob1.csproj", "{9E598BD6-8E7F-4DC5-8AAF-CC6F22B67C7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{05BCE4D4-61A0-45D0-A1C9-73C30C643DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05BCE4D4-61A0-45D0-A1C9-73C30C643DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05BCE4D4-61A0-45D0-A1C9-73C30C643DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E598BD6-8E7F-4DC5-8AAF-CC6F22B67C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E598BD6-8E7F-4DC5-8AAF-CC6F22B67C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E598BD6-8E7F-4DC5-8AAF-CC6F22B67C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E598BD6-8E7F-4DC5-8AAF-CC6F22B67C7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
